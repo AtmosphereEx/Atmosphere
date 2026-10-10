@@ -201,6 +201,10 @@ powershell -ExecutionPolicy Bypass -File scripts\build_installer.ps1
 
 ---
 
+## Telegram
+https://t.me/AtmosphereEx_client
+
+
 ## 📄 License / Лицензия
 
 Distributed under the MIT License. See `LICENSE` for more information.
