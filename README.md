@@ -202,7 +202,7 @@ powershell -ExecutionPolicy Bypass -File scripts\build_installer.ps1
 ---
 
 ## Telegram
-https://t.me/AtmosphereEx_client
+https://t.me/AtmosphereEx_vpn
 
 
 ## 📄 License / Лицензия
